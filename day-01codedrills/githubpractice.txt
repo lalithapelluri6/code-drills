@@ -1,0 +1,28 @@
+1. Create a new repository in Github.
+     navigate to github page on the right corner click on plus sign.
+  in the drop down select new repository. a new page will open.
+2. in the name section assign a name for the repository in this case i am naming it
+   as 'code-drills'. in description section add a short description, like 'this repo
+   is for code-drills' activity. then check the box of inititalize Read me. then this
+   repository will be initialized with read me file.
+3.  clone the repo using the link given in the clone button on the right side of the 
+   repository page. copy the link. 
+4. navigate to the directory that i want to save future data.which is like desktop,rootdirectory,
+   new folder.open terminal navigate to the directory we want to clone the project.
+   
+         enter commands: git clone and the copied link. will copy the file to the local directory.
+    navigate into the project.by giving command
+          cd project name.
+      we will see master branch.
+5. check the git status with command: git status. this will say we are up to date.
+6. make a new file using touch command. touch test.md. then check git status again.
+   we will see untracked file message.
+7. add the contents of the current folder using command add 
+       git add . will add all the untracked files.
+       git add filename will add specific file to git.
+8. commit changes to the repository using "git commit -m 'commit message'".
+    now we have commited changes to git. 
+9. now push the changes to repo using " git push origin master". 
+10. if we have made changes to repository through another computer we need to pull the 
+   changes before committing. using git pull origin master command.
+ 

@@ -1,0 +1,10 @@
+1  how to install git bash to new macOS?
+2  switch cases javascript.
+3  css hover over for a navbar.
+4  XMLHttpRequest cannot load http://myApiUrl.io/apiKey=Ajd234mifs04?query=cats No 'Access-Control-Allow-Origin'
+5  how to write jquery onclick listener without disturbing the other functionality
+6  Ajax call not returning data
+7  foreach method javascript Mozilla
+8  how to make css animation work across all the browsers
+9  sort method on numbers javascript
+10 javascript set timeout function on arrays

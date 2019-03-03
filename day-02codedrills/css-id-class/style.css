@@ -1,0 +1,27 @@
+.main {
+    height: 100vh;
+    width: 100%;
+    background-color: deepskyblue;
+    position: relative;
+}
+
+.box-1 {
+    background-color:blue;
+    width:100px;
+    height:100px;
+    position:fixed;
+}
+.box-2 {
+     width:100px;
+     height:100px;
+ }
+.box-3 {
+    width:100px;
+    height:100px;
+    position:absolute;
+}
+.box-4 {
+    width:100px;
+    height:100px;
+    position:relative;
+}

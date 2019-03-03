@@ -1,0 +1,36 @@
+.main {
+    height: 100vh;
+    width: 100%;
+    background-color: deepskyblue;
+    position: relative;
+}
+
+.box-1 {
+    background-color:blue;
+    width:100px;
+    height:100px;
+    position:fixed;
+}
+.box-2 {
+    background-color:blue;
+    width:100px;
+    height:100px;
+    position:fixed;
+    bottom:0%;
+}
+.box-3 {
+    background-color:blue;
+    width:100px;
+    height:100px;
+    position:fixed;
+    left:92%;
+    top:0%;
+}
+.box-4 {
+    background-color:blue;
+    width:100px;
+    height:100px;
+    position:absolute;
+    right:0%;
+    bottom:0%;
+}

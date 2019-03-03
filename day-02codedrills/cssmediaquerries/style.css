@@ -1,0 +1,23 @@
+.sample-text {
+    border: 2px solid black;
+    margin:auto;
+    width: 28rem;
+}
+#text {
+    text-align:center;
+    margin-bottom:30px;
+    font-weight:bold;
+    text-shadow: 0 2rem 3rem grey;
+}
+#media {
+    text-align: center;
+    padding:1em;
+    font-weight:bold;
+    font-size:18px;
+}
+#button {
+    border-radius:30px;
+    margin-left:32em;
+    margin-top: 2em;
+    color:white;
+}

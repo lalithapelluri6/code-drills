@@ -1,0 +1,33 @@
+.lead {
+    color: #f8f9fa!important;
+    margin-bottom:0px;
+}
+.items {
+    margin-top:0px;
+}
+
+.cards {
+    margin-left:10em;
+}
+.headcontent {
+    color:green;
+    font-size:18px;
+}
+.snippet {
+    color:grey;
+}
+.text {
+    color:red;
+}
+.yellow {
+    color:yellow;
+}
+.btn-primary {
+    max-width:12rem;
+    margin-left:1em;
+    margin-bottom:2em;
+}
+.footer {
+    background-color:lightgrey;
+    height:7rem;
+}

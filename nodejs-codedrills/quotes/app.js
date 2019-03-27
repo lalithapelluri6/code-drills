@@ -3,7 +3,6 @@ var args = process.argv[2];
 
 var arr = [];
 var Quotes;
-var Person = '';
 var msg = "That person never said anything";
 var message;
 

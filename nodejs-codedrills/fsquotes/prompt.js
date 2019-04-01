@@ -12,11 +12,10 @@ var person = arr.join();
 console.log(arr);
 
 var finalquote = [];
-Quote = '"' + Quote + '"';
 finalquote.push("-");
 finalquote.push(person);
 
 fs.appendFile("./quotes.txt", "utf8", function(err,data){
-    Quotes = data.split(';');
+    Quote = data.split(';');
     console.log("Quotes added");
 });

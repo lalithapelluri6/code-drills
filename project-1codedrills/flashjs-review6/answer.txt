@@ -1,0 +1,14 @@
+For this exercise you will not create a function. Your job instead is to get a poor farmer and his livestock across a grueling river.
+
+The farmer needs to get a chicken, a fox and a bag of grain across a river. He's in quite the pickle though. The only boat around is a small, rickety thing that can only carry him (the farmer) and one of his cargo at a time. That means whenever the farmer crosses the river, he'll have to leave at least two of his animals/possesions behind.
+
+What's worse, if he leaves the chicken and fox alone together, the fox will eat the chicken. If he leaves the chicken and grain alone, the chicken will eat the grain.
+
+Using only the farmer's rickety boat and its rules, help him get across the river with all of his companions.
+
+
+
+ANSWER:  The man and the chicken goes first since the grain is safe with the Fox. he leaves the chicken on the other side
+and goes back to get the fox to the other side. since the chicken is not safe with fox he takes chicken with him and
+goes back to get the grain bag. since the chicken and the grain cannot left together he left the chicken there and get
+the grain to the other side and leave it with fox. He then turn to get the chicken and heads accross the river one last time.
